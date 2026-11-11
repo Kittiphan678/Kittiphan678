@@ -68,13 +68,17 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kittiphan678&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphan678&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" width="48%" />
-<br/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphan678&theme=react-dark&hide_border=true" alt="GitHub Streak" width="96%" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Kittiphan678&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kittiphan678&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kittiphan678&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
