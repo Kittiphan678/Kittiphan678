@@ -1,11 +1,11 @@
 <div align="center">
 <!-- Cute Anime Banner GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlvNXBjYWh5eW13YW02d3lqNGRudHFwMXZsdXQ2dGZmbWd5NGRsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="100%" height="260px" style="object-fit: cover; border-radius: 12px;" alt="Cute Anime Banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0eGN1YnhxOXp3ZnlsYzFzOTZsbXZndGFlZmdva3V0czNvZnlneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" width="100%" height="260px" style="object-fit: cover; border-radius: 12px;" alt="Cute Anime Banner"/>
 <br/>
 <br/>
-<!-- Typing SVG Header -->
+<!-- Typing SVG Header (Fixed & Clean English) -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF69B4&center=true&vcenter=true&width=650&lines=%E2%9C%A8+Hi+there!+I'm+Kittiphan+(กิตติพันธ์);%F0%9F%92%BB+Computer+Science+Sophomore+%40+UP;%E2%99%A5+Coder,+Gamer,+%26+Vanguard+TCG+Collector;%F0%9F%8C%B1+Clean+Eating+%26+Cozy+Tech+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF69B4&center=true&vcenter=true&width=650&lines=Hi+there!+I'm+Kittiphan;Computer+Science+Sophomore+%40+UP;Coder,+Gamer,+%26+Vanguard+TCG+Collector;Clean+Eating+%26+Cozy+Tech+Lover" alt="Typing SVG" />
 </a>
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Coding_with_Coffee_&_Milk-ffb6c1?style=for-the-badge&logo=ko-fi&logoColor=white" />
@@ -15,11 +15,11 @@
 
 ---
 
-### ☕ ยินดีต้อนรับสู่หน้าโปรไฟล์ของผมครับ (About Me)
+### ☕ ยินดีต้อนรับสู่หน้าโปรไฟล์ของผมครับ! (About Me)
 
-สวัสดีครับ ผม กิตติพันธ์ นิสิตชั้นปีที่ 2 สาขาวิชา Computer Science ที่มหาวิทยาลัยพะเยา
+สวัสดีครับ ผม **กิตติพันธ์** นิสิตชั้นปีที่ 2 สาขาวิชา **Computer Science** มหาวิทยาลัยพะเยา 🎓  
 
-เวลาไม่ได้นั่งหน้าจอเขียนโค้ดหรือปั้นระบบฐานข้อมูล ผมมักจะใช้เวลาหมดไปกับการผจญภัยในโลกเกม, เปิดกล่องการ์ดแวนการ์ดกับเพื่อนๆ, เสพอนิเมะเรื่องโปรด🌟
+เวลาไม่ได้นั่งหน้าจอเขียนโค้ดหรือปั้นระบบฐานข้อมูล ผมมักจะใช้เวลาหมดไปกับการผจญภัยในโลกเกม, เปิดกล่องการ์ดแวนการ์ดกับเพื่อนๆ, เสพอนิเมะเรื่องโปรด หรือดูแลสุขภาพด้วยการทานอาหารคลีนครับ 🌟
 
 ---
 <table align="center" width="100%">
@@ -36,12 +36,39 @@
 <br/>
 <img src="https://img.shields.io/badge/Tools-VS_Code_%7C_NetBeans-007ACC?style=for-the-badge" />
 </p>
-<p><i>กำลังสนุกกับการเรียนรู้ระบบฐานข้อมูล, การพัฒนาเว็บโปรเจกต์ และเครื่องมือ AI ต่างๆ🚀</i></p>
+<p><i>กำลังสนุกกับการเรียนรู้ระบบฐานข้อมูล, การพัฒนาเว็บโปรเจกต์ และเครื่องมือ AI ต่างๆ ครับ 🚀</i></p>
 </td>
 <td width="50%" align="center" valign="middle">
-<!-- Cute Coding GIF -->
-<img src="
- 📊 GitHub Analytics
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bWNpZXc3cWJwb3R0MWo1bW83NGM0b3FjNWUza2Y0anFpaTF5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="75%" style="border-radius: 10px;" alt="Cute Coding GIF"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎮 งานอดิเรก & ไลฟ์สไตล์ (Hobbies & Lifestyle)
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🃏 เกมและการ์ดแวนการ์ด (Gaming & TCG)</h4>
+<ul>
+<li><b>Games:</b> Elden Ring, Wuthering Waves, Baldur's Gate 3, Valorant, PUBG</li>
+<li><b>TCG Collector:</b> สะสมและเล่นการ์ดเกม <b>Cardfight!! Vanguard</b> (ภาษาจีนตัวย่อ)</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>🍰 อนิเมะ, หนัง & สุขภาพ (Anime & Lifestyle)</h4>
+<ul>
+<li><b>Anime / LN:</b> เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (TenSura), Jujutsu Kaisen</li>
+<li><b>Cinema & Health:</b> Marvel Cinematic Universe, ทานอาหารคลีนโปรตีนสูง & ออกกำลังกาย</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kittiphan678&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphan678&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" width="48%" />
@@ -49,3 +76,10 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphan678&theme=react-dark&hide_border=true" alt="GitHub Streak" width="96%" />
 </div>
+
+---
+<div align="center">
+<p>✨ Thanks for stopping by! Have a wonderful day! ✨</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=80&section=footer"/>
+</div>
+ 
