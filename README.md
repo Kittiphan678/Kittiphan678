@@ -41,4 +41,11 @@
 <td width="50%" align="center" valign="middle">
 <!-- Cute Coding GIF -->
 <img src="
- 
+ 📊 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kittiphan678&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphan678&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" width="48%" />
+<br/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphan678&theme=react-dark&hide_border=true" alt="GitHub Streak" width="96%" />
+</div>
